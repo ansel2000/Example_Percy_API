@@ -14,4 +14,4 @@
     set PERCY_TOKEN=<percy-token>
     ```
 -   Install dependencies `pip install -r requirements.txt`
--   To run the script use `python3 percy_api.py <project_slug>
+-   To run the script use `python3 percy_api.py <project_slug>`
